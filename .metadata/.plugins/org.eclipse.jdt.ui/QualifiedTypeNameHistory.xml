@@ -5,4 +5,6 @@
 <fullyQualifiedTypeName name="com.pluralsight.repository.HibernateCustomerRepositoryImpl"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.pluralsight.model.Customer"/>
+<fullyQualifiedTypeName name="com.pluralsight.service.CustomerService"/>
+<fullyQualifiedTypeName name="com.pluralsight.service.CustomerServiceImpl"/>
 </qualifiedTypeNameHistroy>
