@@ -173,3 +173,8 @@
 2017-06-22 14:45:05,823 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-06-22 14:45:05,825 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-06-22 14:45:05,983 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:45:46,946 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pluralsight:Spring_sample_xml:0.0.1-SNAPSHOT @ /Users/JohnnyRingo/Desktop/SpringJ/Spring_sample_xml/pom.xml.
+2017-06-22 14:45:47,376 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 14:45:47,408 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 14:45:47,411 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 14:45:47,421 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
