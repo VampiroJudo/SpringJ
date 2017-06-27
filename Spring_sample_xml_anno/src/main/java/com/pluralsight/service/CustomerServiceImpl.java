@@ -11,8 +11,9 @@ import com.pluralsight.repository.CustomerRepository;
 @Service("customerService")
 public class CustomerServiceImpl implements CustomerService {
 	
-	//@Autowired
+	//@Autowired 
 	private CustomerRepository customerRepository;
+	//This is member level injection
 	
 	@Autowired
 	public CustomerServiceImpl(CustomerRepository customerRepository) {
